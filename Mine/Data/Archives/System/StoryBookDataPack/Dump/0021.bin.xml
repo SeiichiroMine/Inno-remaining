@@ -17,7 +17,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>ナーオス基地&lt;Color:440>から脱出する際</JapaneseText>
-  <EnglishText>While they were escaping from &lt;Color:240>Naohs Base&lt;Color:440>,</EnglishText>
+  <EnglishText>While they were escaping from &lt;Color:240>Naohs&lt;Color:440></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>謎の男&lt;Color:340>ガードル&lt;Color:440>が現れ、戦闘になる</JapaneseText>
-  <EnglishText>a mysterious man named &lt;Color:340>Gardle&lt;Color:440></EnglishText>
+  <EnglishText>&lt;Color:240>Base&lt;Color:440>, a mysterious man named &lt;Color:340>Gardle&lt;Color:440></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>一路、&lt;Color:240>ナーオスのハルトマン宅&lt;Color:440>へ</JapaneseText>
-  <EnglishText>After driving Gardle away, the party decided to </EnglishText>
+  <EnglishText>After driving Gardle away, the party headed</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText>head straight to &lt;Color:240>Hartman's home in Naohs&lt;Color:440>.</EnglishText>
+  <EnglishText>straight to &lt;Color:240>Hartman’s home in Naohs&lt;Color:440>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

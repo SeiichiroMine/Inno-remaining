@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>まだ出会っていない転生者を</JapaneseText>
-  <EnglishText>Reincarnators that the party hasn't met yet.</EnglishText>
+  <EnglishText>Reincarnators that the party hadn't</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>探し出そうと提案するイリア。</JapaneseText>
-  <EnglishText>&lt;empty></EnglishText>
+  <EnglishText>met yet.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText/>
-  <EnglishText>Thus, the party decided to check all nooks</EnglishText>
+  <EnglishText>&lt;empty></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>街の中をくまなく散策することに</JapaneseText>
-  <EnglishText>and crannies within the city.</EnglishText>
+  <EnglishText>Thus, the party decided to check all nooks</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText>&lt;empty></EnglishText>
+  <EnglishText>and crannies within the city.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

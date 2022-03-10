@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>工業区の下水道を拠点&lt;Color:440>に</JapaneseText>
-  <EnglishText>&lt;Color:240>Regnum's sewers within the Industrial District&lt;Color:440></EnglishText>
+  <EnglishText>&lt;Color:240>Regnum's sewers within the Industrial&lt;Color:440></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>転生者の手がかりを探す。</JapaneseText>
-  <EnglishText>while they searched for more information</EnglishText>
+  <EnglishText>&lt;Color:240>District&lt;Color:440> while they searched for more</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText/>
-  <EnglishText>about Reincarnators.</EnglishText>
+  <EnglishText>information about Reincarnators.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>下水道&lt;Color:440>に戻ったルカとコンウェイは</JapaneseText>
-  <EnglishText>Upon returning to the &lt;Color:240>sewer&lt;Color:440>, they encounter</EnglishText>
+  <EnglishText>Upon returning to the &lt;Color:240>sewer&lt;Color:440>, they</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ひとりの少女に出会う</JapaneseText>
-  <EnglishText>a young girl.</EnglishText>
+  <EnglishText>encounter a young girl.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
