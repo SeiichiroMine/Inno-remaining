@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:340>イナンナ&lt;Color:440>と語り合っていた。</JapaneseText>
-  <EnglishText>Asura talking with a beautiful woman called</EnglishText>
+  <EnglishText>Asura talking with a beautiful woman</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカは見事、儀式をやり遂げたが</JapaneseText>
-  <EnglishText>&lt;Color:340>Inanna&lt;Color:440>. After finishing the ceremony,</EnglishText>
+  <EnglishText>called &lt;Color:340>Inanna&lt;Color:440>. After finishing the</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>結局、&lt;Color:240>レグヌムの道具屋前の露店&lt;Color:440>で</JapaneseText>
-  <EnglishText>Ruca was made to buy hotdogs from the</EnglishText>
+  <EnglishText>ceremony, Ruca was made to buy hotdogs</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ホットドッグを買うハメになる</JapaneseText>
-  <EnglishText>&lt;Color:240>Hotdog Stall in front of the item shop&lt;Color:440>.</EnglishText>
+  <EnglishText>from the &lt;Color:240>Hotdog Stall in front&lt;Color:440></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -105,7 +105,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText>&lt;empty></EnglishText>
+  <EnglishText>&lt;Color:240>of the item shop&lt;Color:440>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
