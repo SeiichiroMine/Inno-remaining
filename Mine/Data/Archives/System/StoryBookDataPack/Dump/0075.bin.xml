@@ -17,7 +17,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>アルベールの用意した飛行船に乗り</JapaneseText>
-  <EnglishText>Using the airship that Albert had prepared</EnglishText>
+  <EnglishText>Using the airship that Albert had</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>マティウスを追うルカたち。</JapaneseText>
-  <EnglishText>for them, the party forcibly lands on the</EnglishText>
+  <EnglishText>prepared, the party force a landing</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>後部ハッチへ強引に突っ込み、</JapaneseText>
-  <EnglishText>ship that Mattheus was using and confronted</EnglishText>
+  <EnglishText>into the rear hatch of Mattheus' ship</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>マティウスの船に乗り込む。</JapaneseText>
-  <EnglishText>her at the bridge. She summoned a monster</EnglishText>
+  <EnglishText>and confront her at the bridge.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>艦橋でマティウスと対峙するが、</JapaneseText>
-  <EnglishText>to attack the party before disappearing.</EnglishText>
+  <EnglishText>She summoned a monster to attack</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>マティウスは魔物を召喚し姿を消す。</JapaneseText>
-  <EnglishText>&lt;empty></EnglishText>
+  <EnglishText>the party before disappearing.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカたちは魔物を倒すと自分たちの</JapaneseText>
-  <EnglishText>returns to their ship and heads for</EnglishText>
+  <EnglishText>returned to their ship, pressing on</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -105,7 +105,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>船に戻り、&lt;Color:240>天空城&lt;Color:440>を目指す</JapaneseText>
-  <EnglishText>&lt;Color:240>Ciela Castello&lt;Color:440>.</EnglishText>
+  <EnglishText>towards &lt;Color:240>Ciela Castello&lt;Color:440>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

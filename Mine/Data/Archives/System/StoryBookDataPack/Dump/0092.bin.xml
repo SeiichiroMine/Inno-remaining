@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>キュキュは巨大な門の前に居た。</JapaneseText>
-  <EnglishText>gigantic pair of doors. Now that the journey’s</EnglishText>
+  <EnglishText>gigantic pair of doors. Now that the</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>仲良しゴッコは終わりと宣言し、</JapaneseText>
-  <EnglishText>finished, the two have returned to being</EnglishText>
+  <EnglishText>journey's over, the two have returned</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>二人は敵同士へと戻った。</JapaneseText>
-  <EnglishText>enemies.</EnglishText>
+  <EnglishText>to being enemies.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>自らの目的を果たした二人は</JapaneseText>
-  <EnglishText>Having finished their mission, the two enter</EnglishText>
+  <EnglishText>Having finished their respective missions,</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>門の先にある自分の国へと</JapaneseText>
-  <EnglishText>the door and return back to their countries.</EnglishText>
+  <EnglishText>the two enter the door and return back to</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -105,7 +105,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>歩みを進めるのだった</JapaneseText>
-  <EnglishText>&lt;empty></EnglishText>
+  <EnglishText>their countries.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

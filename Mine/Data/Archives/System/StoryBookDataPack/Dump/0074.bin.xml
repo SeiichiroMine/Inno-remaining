@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカたちには手段がない。</JapaneseText>
-  <EnglishText>so Albert proposed that the party use the</EnglishText>
+  <EnglishText>so Albert proposed that the party use</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText/>
-  <EnglishText>airship that he had prepared.</EnglishText>
+  <EnglishText>the airship that he had prepared.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>飛行船の手配を申し出る。</JapaneseText>
-  <EnglishText>Gladly accepting his offer, the party takes</EnglishText>
+  <EnglishText>Gladly accepting his offer, the party</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカたちはそれを受け入れ</JapaneseText>
-  <EnglishText>Albert's airship and chases after Mattheus.</EnglishText>
+  <EnglishText>took Albert’s airship and chased</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>アルベールの用意した飛行船&lt;Color:440>へ</JapaneseText>
-  <EnglishText>&lt;empty></EnglishText>
+  <EnglishText>after Mattheus.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

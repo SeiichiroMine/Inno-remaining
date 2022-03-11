@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>黎明の塔&lt;Color:440>を目指すルカたち。</JapaneseText>
-  <EnglishText>and arriving at the &lt;Color:240>Tower of Dawn&lt;Color:440>, the party</EnglishText>
+  <EnglishText>and arriving at the &lt;Color:240>Tower of Dawn&lt;Color:440>,</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText/>
-  <EnglishText>discovered that the Church and the Imperial</EnglishText>
+  <EnglishText>the party discovered that the Church</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>黎明の塔&lt;Color:440>に到着すると、創世力を</JapaneseText>
-  <EnglishText>Army having already begun fighting.</EnglishText>
+  <EnglishText>and the Imperial Army have already</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>めぐっての王都軍と教団の戦いが</JapaneseText>
-  <EnglishText>&lt;empty></EnglishText>
+  <EnglishText>begun fighting.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

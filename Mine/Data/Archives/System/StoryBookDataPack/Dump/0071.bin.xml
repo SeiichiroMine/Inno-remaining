@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>アンジュとアルベールを発見。</JapaneseText>
-  <EnglishText>There, they find Ange and Albert on its roof.</EnglishText>
+  <EnglishText>There, they find Ange and Albert on the</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>アルベールの呼びかけにより</JapaneseText>
-  <EnglishText>Summoned by Albert’s voice, &lt;Color:340>Ciela Castello&lt;Color:440>, </EnglishText>
+  <EnglishText>roof. Summoned by Albert’s voice, &lt;Color:340>Ciela&lt;Color:440>, </EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:340>天空城&lt;Color:440>が、その姿を現す。</JapaneseText>
-  <EnglishText>appears in the distant sky.</EnglishText>
+  <EnglishText>&lt;Color:340>Castello&lt;Color:440> appeared in the distant sky.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>アルベールいわく、</JapaneseText>
-  <EnglishText>Albert reveals to the party that the Genesis</EnglishText>
+  <EnglishText>Albert revealed to the party that the</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -105,7 +105,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>創世力は天空城にあるらしい</JapaneseText>
-  <EnglishText>lies within that castle’s walls.</EnglishText>
+  <EnglishText>Genesis lay within that castle’s walls.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
