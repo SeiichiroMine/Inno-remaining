@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>思い通りにならないことを知ると</JapaneseText>
-  <EnglishText>Ruca’s decision, she attacks the party but</EnglishText>
+  <EnglishText>Ruca’s decision, she attacks the party</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>襲いかかってくるが</JapaneseText>
-  <EnglishText>was driven back.</EnglishText>
+  <EnglishText>but was driven back.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText/>
-  <EnglishText>Having defeated Chitose and captured the</EnglishText>
+  <EnglishText>Having defeated Chitose and captured</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>チトセを倒し、&lt;Color:340>船&lt;Color:440>を手に入れた</JapaneseText>
-  <EnglishText>&lt;Color:340>ship&lt;Color:440>, the party sets sail for the &lt;Color:240>Southern&lt;Color:440></EnglishText>
+  <EnglishText>the &lt;Color:340>ship&lt;Color:440>, the party sets sail for the</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカたちは&lt;Color:240>南の国ガルポス&lt;Color:440>へ向かう</JapaneseText>
-  <EnglishText>&lt;Color:240>Country of Galpos&lt;Color:440>.</EnglishText>
+  <EnglishText>&lt;Color:240>Southern Country of Galpos&lt;Color:440>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

@@ -17,7 +17,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>テノス&lt;Color:440>に到着し、記憶の場の</JapaneseText>
-  <EnglishText>After arriving in &lt;Color:240>Tenos&lt;Color:440>, the party wanders the</EnglishText>
+  <EnglishText>After arriving in &lt;Color:240>Tenos&lt;Color:440>, the party</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>手がかりを探していると、</JapaneseText>
-  <EnglishText>town in search of any leads on the memory</EnglishText>
+  <EnglishText>searched the town for leads on the memory</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>アンジュをさらおうとしていた</JapaneseText>
-  <EnglishText>circle and learns that it might be located in</EnglishText>
+  <EnglishText>circle and learned that it might be located</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>テノスの貴族、アルベールが</JapaneseText>
-  <EnglishText>the &lt;Color:240>ruins east of the town&lt;Color:440>.</EnglishText>
+  <EnglishText>in the &lt;Color:240>ruins east of the town&lt;Color:440>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>東の遺跡&lt;Color:440>へ軍を動かしたという話を</JapaneseText>
-  <EnglishText>It also appears that Albert, the one who was</EnglishText>
+  <EnglishText>It seemed that Albert, the one who was</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>聞きつける。</JapaneseText>
-  <EnglishText>after Ange, had headed there with his army.</EnglishText>
+  <EnglishText>after Ange, had headed there earlier</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText/>
-  <EnglishText/>
+  <EnglishText>with his army.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>アルベールの先回りをするため</JapaneseText>
-  <EnglishText>They decide to hurry towards the &lt;Color:240>ruins&lt;Color:440></EnglishText>
+  <EnglishText>The party hurried towards the &lt;Color:240>ruins&lt;Color:440></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -105,7 +105,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカたちは、&lt;Color:240>東の遺跡&lt;Color:440>へ向かう</JapaneseText>
-  <EnglishText>before Albert reaches it.</EnglishText>
+  <EnglishText>hoping to reach it before Albert.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

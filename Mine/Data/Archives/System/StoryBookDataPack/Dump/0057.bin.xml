@@ -17,7 +17,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>テノスへ向かうため&lt;Color:240>ガルポスの港&lt;Color:440>へ</JapaneseText>
-  <EnglishText>Upon arriving at &lt;Color:240>Galpos’ Harbor&lt;Color:440>,</EnglishText>
+  <EnglishText>Upon arriving at &lt;Color:240>Galpos’ Harbor&lt;Color:440>, the</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>やってきたルカたちは、</JapaneseText>
-  <EnglishText>the party was suddenly encircled by</EnglishText>
+  <EnglishText>party was suddenly encircled by a</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>突然現れた兵士たちに包囲される。</JapaneseText>
-  <EnglishText>a group of soldiers.</EnglishText>
+  <EnglishText>group of soldiers.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>兵士ばかりではなく、リカルドの</JapaneseText>
-  <EnglishText>Not only were they held up against the</EnglishText>
+  <EnglishText>But the soldiers weren't the only ones</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>銃口までもがルカたちに向けられる</JapaneseText>
-  <EnglishText>soldiers’ guns, but also Ricardo’s. It turns</EnglishText>
+  <EnglishText>holding them at gunpoint, Ricardo was</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>リカルドは、軍に内通していたのだ</JapaneseText>
-  <EnglishText>out that he was secretly colluding with the</EnglishText>
+  <EnglishText>too. It turned out that he was secretly</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText>army all along.</EnglishText>
+  <EnglishText>colluding with the army this whole time.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

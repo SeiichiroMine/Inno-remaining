@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>リカルドを裏切り者と責めるも、</JapaneseText>
-  <EnglishText>the party condemns Ricardo for his betrayal.</EnglishText>
+  <EnglishText>the party condemned Ricardo for his</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>真意を語らないリカルド。</JapaneseText>
-  <EnglishText>He silently leaves without saying a word.</EnglishText>
+  <EnglishText>betrayal. He refused to elaborate</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText/>
-  <EnglishText/>
+  <EnglishText>on his reasons.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>自分たちの未来、リカルドの真意、</JapaneseText>
-  <EnglishText>With their futures unclear and Ricardo’s</EnglishText>
+  <EnglishText>&lt;empty></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>なにも見えないまま、</JapaneseText>
-  <EnglishText>intentions unknowns, the party has no other</EnglishText>
+  <EnglishText>With their futures unclear and Ricardo’s</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカたちは里内をまわることに</JapaneseText>
-  <EnglishText>choice but to explore the village.</EnglishText>
+  <EnglishText>intentions unknowns, the party has no</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText>&lt;empty></EnglishText>
+  <EnglishText>other choice but to explore the village.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

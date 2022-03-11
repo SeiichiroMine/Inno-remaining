@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカたちは、これを撃退。</JapaneseText>
-  <EnglishText>The party is able to defeat him, but</EnglishText>
+  <EnglishText>The party was able to defeat him,</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>またも逃走するシアン。</JapaneseText>
-  <EnglishText>he flees from them once again.</EnglishText>
+  <EnglishText>but he fled from them once again.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>ガルポスの港&lt;Color:440>へ戻ることにする</JapaneseText>
-  <EnglishText>&lt;Color:240>Galpos’ Harbor&lt;Color:440> to reach their next destination.</EnglishText>
+  <EnglishText>&lt;Color:240>Galpos’ Harbor&lt;Color:440>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

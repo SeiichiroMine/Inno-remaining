@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ガードルを撃退するも</JapaneseText>
-  <EnglishText>Although the party repelled Gardle's assault,</EnglishText>
+  <EnglishText>Although the party repelled Gardle’s</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>さらに人型兵器に乗ったグリゴリの</JapaneseText>
-  <EnglishText>a Grigori soldier operating an automaton</EnglishText>
+  <EnglishText>assault, a Grigori soldier operating an</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>兵士から襲撃を受ける。</JapaneseText>
-  <EnglishText>attacked both Gardle and the party.</EnglishText>
+  <EnglishText>automaton attacked both Gardle and</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>そのグリゴリの兵士は、</JapaneseText>
-  <EnglishText>This soldier scorned Gardle, insisting that</EnglishText>
+  <EnglishText>the party. This soldier scorned Gardle,</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>力は私欲のために使うべきだと</JapaneseText>
-  <EnglishText>power should be used for personal gain.</EnglishText>
+  <EnglishText>insisting that power should be used for</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ガードルをさげすむ</JapaneseText>
-  <EnglishText>&lt;empty></EnglishText>
+  <EnglishText>personal gain.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

@@ -17,7 +17,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>ジャングル&lt;Color:440>の入り口で</JapaneseText>
-  <EnglishText>Upon arriving at the jungle, they discovered</EnglishText>
+  <EnglishText>Upon arriving at the jungle, they</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>遺跡を発見したルカたち。</JapaneseText>
-  <EnglishText>some ruins at the entrance. They surmised</EnglishText>
+  <EnglishText>discovered some ruins at its entrance.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>推測し、先へと進む。</JapaneseText>
-  <EnglishText>that there might be a memory circle in its</EnglishText>
+  <EnglishText>memory circle in its depths.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>推測通り、記憶の場を発見すると</JapaneseText>
-  <EnglishText>depths.</EnglishText>
+  <EnglishText>&lt;empty></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>アスラとオリフィエルが</JapaneseText>
-  <EnglishText>Moving onwards, the party discovered the</EnglishText>
+  <EnglishText>Moving onwards, the party found the</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>記憶が甦る</JapaneseText>
-  <EnglishText>and Orfiel discussing&lt;Color:340>how the Genesis&lt;Color:440></EnglishText>
+  <EnglishText>and Orfiel discussing &lt;Color:340>how the Genesis&lt;Color:440></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

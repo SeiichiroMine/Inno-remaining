@@ -6,7 +6,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>南の国ガルポスにて</JapaneseText>
-  <EnglishText>In the Southern Country of Galpos</EnglishText>
+  <EnglishText>Galpos</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>レグヌムの鍾乳洞&lt;Color:440>に現れたシアンが</JapaneseText>
-  <EnglishText>learn that the boy they encountered in</EnglishText>
+  <EnglishText>learned that the boy they encountered in</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>果樹園&lt;Color:440>を荒らす現場に遭遇する。</JapaneseText>
-  <EnglishText>&lt;Color:240>Regnum’s Caverns&lt;Color:440>, Sian, has been tearing</EnglishText>
+  <EnglishText>&lt;Color:240>Regnum’s Caverns&lt;Color:440>, Sian, had been tearing</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>北のジャングル&lt;Color:440>へと向かう</JapaneseText>
-  <EnglishText>The party heads to the &lt;Color:240>jungle north of town&lt;Color:440></EnglishText>
+  <EnglishText>The party heads to the &lt;Color:240>jungle north of&lt;Color:440></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText>in order to punish the boy.</EnglishText>
+  <EnglishText>&lt;Color:240>town&lt;Color:440> in order to punish the boy.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
