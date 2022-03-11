@@ -6,7 +6,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>記憶の場を求めて</JapaneseText>
-  <EnglishText>In Search of more Memory Circles</EnglishText>
+  <EnglishText>More Memory Circles</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -17,7 +17,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>大聖堂の図書室で、記憶の場の</JapaneseText>
-  <EnglishText>After a moment of gathering information in</EnglishText>
+  <EnglishText>After gathering information in the</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>情報を集めるルカたち</JapaneseText>
-  <EnglishText>the Cathedral's library, the party concludes</EnglishText>
+  <EnglishText>Cathedral’s library, the party concluded</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>アシハラ&lt;Color:440>、&lt;Color:240>ガラム&lt;Color:440>、&lt;Color:240>ガルポス&lt;Color:440>、</JapaneseText>
-  <EnglishText>&lt;Color:240>Ashihara&lt;Color:440>, &lt;Color:240>Garam&lt;Color:440>, &lt;Color:240>Galpos&lt;Color:440>,</EnglishText>
+  <EnglishText>&lt;Color:240>Ashihara&lt;Color:440>, &lt;Color:240>Garam&lt;Color:440>, &lt;Color:240>Galpos&lt;Color:440>, and &lt;Color:240>Tenos&lt;Color:440>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>そして、&lt;Color:240>テノス&lt;Color:440>と判明した。</JapaneseText>
-  <EnglishText>and &lt;Color:240>Tenos&lt;Color:440>.</EnglishText>
+  <EnglishText>&lt;empty></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>リカルドが、船の手配をする間</JapaneseText>
-  <EnglishText>&lt;empty></EnglishText>
+  <EnglishText>The party decides to wait at &lt;Color:240>Hartman's place&lt;Color:440></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>ハルトマン宅&lt;Color:440>で待機することに</JapaneseText>
-  <EnglishText>The party decides to wait at &lt;Color:240>Hartman's place&lt;Color:440></EnglishText>
+  <EnglishText>while Ricardo finds a ride for them to use.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText>while Ricardo gets a ride for them to use.</EnglishText>
+  <EnglishText>&lt;empty></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

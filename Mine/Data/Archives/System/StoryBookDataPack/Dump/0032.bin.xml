@@ -17,7 +17,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカたちは、商店主の部屋で</JapaneseText>
-  <EnglishText>The party finds the abducted orphans in a</EnglishText>
+  <EnglishText>The party found the abducted orphans</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>さらわれた孤児たちを発見するも</JapaneseText>
-  <EnglishText>room within the mansion, but they had to</EnglishText>
+  <EnglishText>in the mansion, but they had to first</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>転生者である</JapaneseText>
-  <EnglishText>face the &lt;Color:340>bodyguard&lt;Color:440> who also happen to</EnglishText>
+  <EnglishText>confront the &lt;Color:340>bodyguard&lt;Color:440> who also happen</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:340>用心棒の親分&lt;Color:440>と戦うことに。</JapaneseText>
-  <EnglishText>be a Reincarnator.</EnglishText>
+  <EnglishText>to be a Reincarnator.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>一騎打ちを宣言するエルマーナ。</JapaneseText>
-  <EnglishText>But before the battle, Hermana challenged</EnglishText>
+  <EnglishText>But before the battle began, Hermana</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>エルマーナはヴリトラの力に目覚め</JapaneseText>
-  <EnglishText>him to one-on-one combat.</EnglishText>
+  <EnglishText>challenged him to one-on-one combat.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>戦いに勝利する</JapaneseText>
-  <EnglishText>Awakened and brimming with Vritra's power, </EnglishText>
+  <EnglishText>Awakened and brimming with Vritra’s</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -105,7 +105,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText>Hermana wins the battle.</EnglishText>
+  <EnglishText>power, Hermana easily won.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

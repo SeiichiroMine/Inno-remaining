@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>祭壇と&lt;Color:340>記憶の場&lt;Color:440>を発見するルカたち</JapaneseText>
-  <EnglishText>&lt;Color:240>Limestone Cavern&lt;Color:440>, the party discovers an</EnglishText>
+  <EnglishText>&lt;Color:240>Limestone Cavern&lt;Color:440>, the party discovers</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>この&lt;Color:240>鍾乳洞&lt;Color:440>は、かつて祭事のために</JapaneseText>
-  <EnglishText>&lt;Color:340>altar&lt;Color:440> and a &lt;Color:340>glowing circle&lt;Color:440>.</EnglishText>
+  <EnglishText>an &lt;Color:340>altar&lt;Color:440> and a &lt;Color:340>glowing circle&lt;Color:440>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>その記憶が甦ったらしい</JapaneseText>
-  <EnglishText>However, it also seems that Hermana saw</EnglishText>
+  <EnglishText>However, it seems that Hermana also</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -105,7 +105,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText>what the memory contained.</EnglishText>
+  <EnglishText>saw what the memory had contained.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

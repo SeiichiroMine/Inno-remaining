@@ -6,7 +6,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>アシハラの猛獣退治</JapaneseText>
-  <EnglishText>Ashiharan Beast Extermination</EnglishText>
+  <EnglishText>Beast Extermination</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -17,7 +17,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>アシハラ王墓&lt;Color:440>に到着すると門番から</JapaneseText>
-  <EnglishText>Upon arrival to the &lt;Color:240>tomb's entrance&lt;Color:440>,</EnglishText>
+  <EnglishText>Upon arriving at the &lt;Color:240>tomb’s entrance&lt;Color:440>,</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>立ち入り許可は、アシハラにいる</JapaneseText>
-  <EnglishText>they are informed by the gravekeepers that</EnglishText>
+  <EnglishText>they are informed by the gravekeepers</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ジロチョウにもらうよう言われる</JapaneseText>
-  <EnglishText>the Town Elder's approval is required in</EnglishText>
+  <EnglishText>that the Town Elder’s approval is</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカたち。&lt;Color:240>アシハラ&lt;Color:440>に戻った</JapaneseText>
-  <EnglishText>order to be able to enter it.</EnglishText>
+  <EnglishText>required to enter the tomb.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカたちは、&lt;Color:340>ジロチョウ&lt;Color:440>から許可と</JapaneseText>
-  <EnglishText>Returning to &lt;Color:240>Ashihara&lt;Color:440>, the party agrees to</EnglishText>
+  <EnglishText>Returning to &lt;Color:240>Ashihara&lt;Color:440>, the party agreed</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>引き替えに猛獣退治を頼まれる。</JapaneseText>
-  <EnglishText>take on an extermination request from the</EnglishText>
+  <EnglishText>to take on an extermination request from</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>猛獣をすべて退治したルカたちは</JapaneseText>
-  <EnglishText>&lt;Color:340>Elder&lt;Color:440> in exchange for his permission.</EnglishText>
+  <EnglishText>the &lt;Color:340>Elder&lt;Color:440> in exchange for his permission.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -105,7 +105,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText>immediately sets out for the &lt;Color:240>Royal Tomb&lt;Color:440>.</EnglishText>
+  <EnglishText>immediately set out for the &lt;Color:240>Royal Tomb&lt;Color:440>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

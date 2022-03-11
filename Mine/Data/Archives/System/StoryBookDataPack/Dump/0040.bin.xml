@@ -17,7 +17,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>アシハラ王墓&lt;Color:440>の壁画を見て</JapaneseText>
-  <EnglishText>The party learns about the existence of the </EnglishText>
+  <EnglishText>The party learned about the existence of</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:340>始祖の巨人&lt;Color:440>の存在を知るルカたち。</JapaneseText>
-  <EnglishText>&lt;Color:340>Primordial Giant&lt;Color:440> from a mural within</EnglishText>
+  <EnglishText>the &lt;Color:340>Primordial Giant&lt;Color:440> from a mural within</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカは、アスラが天上界と地上を</JapaneseText>
-  <EnglishText>This discovery makes the party wonder</EnglishText>
+  <EnglishText>This discovery made the party wonder</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ひとつにしたかったことを思い出す</JapaneseText>
-  <EnglishText>why there are Reincarnators in Terro and</EnglishText>
+  <EnglishText>why there were Reincarnators in Terro and</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

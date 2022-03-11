@@ -17,7 +17,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>下水道&lt;Color:440>へ帰ってくると</JapaneseText>
-  <EnglishText>After returning from the caverns, the party</EnglishText>
+  <EnglishText>After returning from the caverns, the</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>エルの育てていた孤児たちが</JapaneseText>
-  <EnglishText>finds out that the orphans that Hermana</EnglishText>
+  <EnglishText>party discovered that the orphans</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:340>商店主&lt;Color:440>に連れ去られてしまう。</JapaneseText>
-  <EnglishText>raised were captured by the shopkeeper.</EnglishText>
+  <EnglishText>Hermana raised were captured by</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText/>
-  <EnglishText/>
+  <EnglishText>the shopkeeper.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>孤児たちを取り戻すため</JapaneseText>
-  <EnglishText>In order to rescue the orphans, the party</EnglishText>
+  <EnglishText>&lt;empty></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>街の西側、貴族居住区にある</JapaneseText>
-  <EnglishText>heads to the &lt;Color:240>Shopkeeper's Mansion&lt;Color:440> located</EnglishText>
+  <EnglishText>In order to rescue the orphans, the party</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>商店主の屋敷&lt;Color:440>へ向かうルカたち　</JapaneseText>
-  <EnglishText>in the Upper District on the west side of town.</EnglishText>
+  <EnglishText>headed to the &lt;Color:240>Shopkeeper’s Mansion&lt;Color:440>,</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText>&lt;empty></EnglishText>
+  <EnglishText>located in the Upper District on the west</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -105,7 +105,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText>&lt;empty></EnglishText>
+  <EnglishText>side of town.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

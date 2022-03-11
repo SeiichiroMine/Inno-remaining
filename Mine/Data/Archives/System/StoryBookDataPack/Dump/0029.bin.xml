@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカたちは&lt;Color:240>下水道&lt;Color:440>へ戻るのだった</JapaneseText>
-  <EnglishText>Surprised but having finished their mission,</EnglishText>
+  <EnglishText>Though the party was surprised by this</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText>the party heads back to the &lt;Color:240>sewers&lt;Color:440>.</EnglishText>
+  <EnglishText>turn of events, they had finished their</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText>&lt;empty></EnglishText>
+  <EnglishText>mission, so they headed back to the</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText>&lt;empty></EnglishText>
+  <EnglishText>&lt;Color:240>sewers&lt;Color:440>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
