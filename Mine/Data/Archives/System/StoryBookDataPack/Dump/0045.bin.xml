@@ -17,7 +17,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>カリュプス鉱山&lt;Color:440>を抜け、&lt;Color:240>ガラム&lt;Color:440>に</JapaneseText>
-  <EnglishText>The party crosses &lt;Color:240>Calypso Mine&lt;Color:440> and arrives</EnglishText>
+  <EnglishText>The party crossed &lt;Color:240>Calypso Mine&lt;Color:440> and</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>到着したルカたちは、&lt;Color:240>ケルム火山&lt;Color:440>に</JapaneseText>
-  <EnglishText>in &lt;Color:240>Garam&lt;Color:440>. Upon arrival, they assume that</EnglishText>
+  <EnglishText>arrived in &lt;Color:240>Garam&lt;Color:440>. They assumed the</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>記憶の場があると推測する。</JapaneseText>
-  <EnglishText>memory circle must be in &lt;Color:240>Kelm Volcano&lt;Color:440>.</EnglishText>
+  <EnglishText>memory circle must be in &lt;Color:240>Kelm Volcano&lt;Color:440></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>ケルム火山&lt;Color:440>で門番から、ハスタが</JapaneseText>
-  <EnglishText>The party learns of Hasta's appearance from</EnglishText>
+  <EnglishText>&lt;empty></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>現れたと聞かされるルカたち。</JapaneseText>
-  <EnglishText>the gatekeeper of the volcano's entrance.</EnglishText>
+  <EnglishText>The party learned that Hasta was in</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカたちは、ハスタを山から</JapaneseText>
-  <EnglishText>After proposing that they will chase Hasta</EnglishText>
+  <EnglishText>the volcano from its gatekeeper.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>追い出すことを条件に許可をもらい</JapaneseText>
-  <EnglishText>out, the party gains permission to enter the </EnglishText>
+  <EnglishText>After proposing that they would chase</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>ケルム火山&lt;Color:440>へ向かう</JapaneseText>
-  <EnglishText>volcano.</EnglishText>
+  <EnglishText>Hasta out, the party gained permission</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -105,7 +105,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText>&lt;empty></EnglishText>
+  <EnglishText>to enter the volcano.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

@@ -6,7 +6,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>西の国ガラムへ</JapaneseText>
-  <EnglishText>To the Western Country of Garam</EnglishText>
+  <EnglishText>To Garam</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText/>
-  <EnglishText>Arriving at &lt;Color:240>Garam's Harbor&lt;Color:440>, the party would</EnglishText>
+  <EnglishText>Arriving at &lt;Color:240>Garam’s Harbor&lt;Color:440>, the party</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>ガラム港&lt;Color:440>に到着したルカたちは</JapaneseText>
-  <EnglishText>head northeast past &lt;Color:240>Calypso Mine&lt;Color:440></EnglishText>
+  <EnglishText>headed northeast past &lt;Color:240>Calypso Mine&lt;Color:440></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
