@@ -6,7 +6,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>南の国ガルポスにて</JapaneseText>
-  <EnglishText>Galpos</EnglishText>
+  <EnglishText>To the South, Galpos</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>果樹園&lt;Color:440>を荒らす現場に遭遇する。</JapaneseText>
-  <EnglishText>&lt;Color:240>Regnum’s Caverns&lt;Color:440>, Sian, had been tearing</EnglishText>
+  <EnglishText>&lt;Color:240>Regnum’s Caverns&lt;Color:440>, Sian, had been</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText/>
-  <EnglishText>through &lt;Color:240>Galpos’ Orchard&lt;Color:440>.</EnglishText>
+  <EnglishText>tearing through &lt;Color:240>Galpos’ Orchard&lt;Color:440>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

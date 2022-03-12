@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>ガルポス&lt;Color:440>へ向かおうとするが</JapaneseText>
-  <EnglishText>out for &lt;Color:240>Galpos&lt;Color:440>. Unfortunately, the &lt;Color:240>Calypso&lt;Color:440></EnglishText>
+  <EnglishText>out for &lt;Color:240>Galpos&lt;Color:440>. Unfortunately, the</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>カリュプス鉱山&lt;Color:440>で落盤事故が発生。</JapaneseText>
-  <EnglishText>&lt;Color:240>Mine&lt;Color:440> had suffered a cave-in.</EnglishText>
+  <EnglishText>&lt;Color:240>Calypso Mine&lt;Color:440> had suffered a cave-in.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>しかし、ルカたちは&lt;Color:240>ガルポス&lt;Color:440>行きの</JapaneseText>
-  <EnglishText>Unable to wait as there was a ship waiting</EnglishText>
+  <EnglishText>Unable to tarry as there was a ship waiting</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

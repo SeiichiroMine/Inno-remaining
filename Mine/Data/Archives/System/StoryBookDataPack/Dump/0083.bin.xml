@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>その前に現れたのはハスタだった。</JapaneseText>
-  <EnglishText>the party encounters Hasta along the way.</EnglishText>
+  <EnglishText>the party encounters Hasta along the</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>襲いかかってくるハスタを</JapaneseText>
-  <EnglishText>He challenges them once more, but the</EnglishText>
+  <EnglishText>way. He challenges them once more, but</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>撃退するルカたち。</JapaneseText>
-  <EnglishText>party prevails once again.</EnglishText>
+  <EnglishText>the party prevails once again.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

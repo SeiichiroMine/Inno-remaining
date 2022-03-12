@@ -17,7 +17,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>ナーオス&lt;Color:440>を立つ際、改めてイリア、</JapaneseText>
-  <EnglishText>As they left &lt;Color:240>Naohs&lt;Color:440>, Ruca strengthened his</EnglishText>
+  <EnglishText>As they left &lt;Color:240>Naohs&lt;Color:440>, Ruca strengthened</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>スパーダとともに旅を続ける決意を</JapaneseText>
-  <EnglishText>resolve and decided to continue his</EnglishText>
+  <EnglishText>his resolve and decided to continue his</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>固めるルカ。</JapaneseText>
-  <EnglishText>journey alongside Spada and Illia.</EnglishText>
+  <EnglishText>journey alongside Spada and Illia. As </EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>なすすべのないルカたち、</JapaneseText>
-  <EnglishText>which nullified all their attacks. They were</EnglishText>
+  <EnglishText>which nullified all their attacks. When</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>そこに以前、ルカが&lt;Color:240>レグヌム&lt;Color:440>で</JapaneseText>
-  <EnglishText>young man that Ruca met in &lt;Color:240>Regnum&lt;Color:440></EnglishText>
+  <EnglishText>all hope was lost, the young man that</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>出会った青年が現れる</JapaneseText>
-  <EnglishText>the young man that Ruca met in &lt;Color:240>Regnum&lt;Color:440></EnglishText>
+  <EnglishText>Ruca met in &lt;Color:240>Regnum&lt;Color:440></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

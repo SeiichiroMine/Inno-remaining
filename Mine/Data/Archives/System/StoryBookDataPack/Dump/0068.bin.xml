@@ -6,7 +6,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>北の国テノスにて</JapaneseText>
-  <EnglishText>The Northern Country of Tenos</EnglishText>
+  <EnglishText>The Northern Country, Tenos</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -17,7 +17,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:240>テノス&lt;Color:440>に到着し、記憶の場の</JapaneseText>
-  <EnglishText>After arriving in &lt;Color:240>Tenos&lt;Color:440>, the party</EnglishText>
+  <EnglishText>After arriving in &lt;Color:240>Tenos&lt;Color:440>, the party searched</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>手がかりを探していると、</JapaneseText>
-  <EnglishText>searched the town for leads on the memory</EnglishText>
+  <EnglishText>the town for leads on the memory</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

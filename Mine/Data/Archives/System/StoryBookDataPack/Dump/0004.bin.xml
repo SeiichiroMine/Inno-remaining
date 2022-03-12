@@ -17,7 +17,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>そこへ、&lt;Color:340>教団の大主天マティウス&lt;Color:440>が</JapaneseText>
-  <EnglishText>There the &lt;Color:340>Church's Great Cielan, Mattheus&lt;Color:440>, </EnglishText>
+  <EnglishText>There the &lt;Color:340>Church's Great Cielan,&lt;Color:440></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>現れる。マティウスは&lt;Color:340>創世力&lt;Color:440>と</JapaneseText>
-  <EnglishText>appeared. Illia was being chased because</EnglishText>
+  <EnglishText>&lt;Color:340>Mattheus&lt;Color:440>, appeared. Apparently, Illia was</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>呼ばれるものを手に入れるため</JapaneseText>
-  <EnglishText>Mattheus was after something called the</EnglishText>
+  <EnglishText>being chased because Mattheus was</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>イリアを追って来たという。</JapaneseText>
-  <EnglishText>&lt;Color:340>Genesis&lt;Color:440>.</EnglishText>
+  <EnglishText>after something called the &lt;Color:340>Genesis&lt;Color:440>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカが転生者であることを認めると</JapaneseText>
-  <EnglishText>declared himself as a Reincarnator in order</EnglishText>
+  <EnglishText>declared himself as a Reincarnator in</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>立ち去ってしまうマティウス</JapaneseText>
-  <EnglishText>to avoid attracting any further attention.</EnglishText>
+  <EnglishText>order to avoid attracting any</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -105,7 +105,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText>&lt;space></EnglishText>
+  <EnglishText>further attention.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

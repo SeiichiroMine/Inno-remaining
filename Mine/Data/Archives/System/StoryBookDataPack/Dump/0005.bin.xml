@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>アスラの恋人イナンナだと言う。</JapaneseText>
-  <EnglishText>who was once Asura’s lover, Inanna.</EnglishText>
+  <EnglishText>who was once Asura’s lover, Inanna. In</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ルカとイリアは、マティウスよりも</JapaneseText>
-  <EnglishText>In order to reach Genesis before Mattheus</EnglishText>
+  <EnglishText>order to reach Genesis before Mattheus</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>さらに、&lt;Color:240>レグヌム峠&lt;Color:440>を越えた先</JapaneseText>
-  <EnglishText>and go further southeast past &lt;Color:240>Regnum Pass&lt;Color:440> to</EnglishText>
+  <EnglishText>and go further southeast past &lt;Color:240>Regnum&lt;Color:440></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -105,7 +105,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>南東にある&lt;Color:240>聖都ナーオス&lt;Color:440>へ向かう</JapaneseText>
-  <EnglishText>the &lt;Color:240>Holy City of Naohs&lt;Color:440>.</EnglishText>
+  <EnglishText>&lt;Color:240>Pass&lt;Color:440> to the &lt;Color:240>Holy City of Naohs&lt;Color:440>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

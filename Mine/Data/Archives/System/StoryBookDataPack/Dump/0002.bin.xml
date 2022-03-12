@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ホットドッグを買うハメになる</JapaneseText>
-  <EnglishText>from the &lt;Color:240>Hotdog Stall in front&lt;Color:440></EnglishText>
+  <EnglishText>from the &lt;Color:240>Hotdog Stall in front of the&lt;Color:440></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -105,7 +105,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText>&lt;Color:240>of the item shop&lt;Color:440>.</EnglishText>
+  <EnglishText>&lt;Color:240>item shop&lt;Color:440>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

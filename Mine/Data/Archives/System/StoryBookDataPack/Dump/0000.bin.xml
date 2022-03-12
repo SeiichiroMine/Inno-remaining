@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>夢に見る武人、その名は&lt;Color:340>アスラ&lt;Color:440>。</JapaneseText>
-  <EnglishText>warrior whose name is &lt;Color:340>}Asura&lt;Color:440>.</EnglishText>
+  <EnglishText>warrior whose name is &lt;Color:340>Asura&lt;Color:440>. Daring and</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>勇猛果敢、一騎当千と評される</JapaneseText>
-  <EnglishText>Daring and resolute, the brave general</EnglishText>
+  <EnglishText>resolute, the brave general defeated </EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>その猛将は、敵将&lt;Color:340>ヒュプノス&lt;Color:440>を倒し</JapaneseText>
-  <EnglishText>defeated the enemy general, &lt;Color:340>Hypnos&lt;Color:440>, while</EnglishText>
+  <EnglishText>the enemy general, &lt;Color:340>Hypnos&lt;Color:440>, while</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>敵の居城「天空城」へ</JapaneseText>
-  <EnglishText>launching an attack against Ciela Castello.</EnglishText>
+  <EnglishText>launching an attack against</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>総攻撃をかけた…。</JapaneseText>
-  <EnglishText>&lt;empty></EnglishText>
+  <EnglishText>Ciela Castello.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

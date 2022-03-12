@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>一路、&lt;Color:240>ナーオスのハルトマン宅&lt;Color:440>へ</JapaneseText>
-  <EnglishText>After driving Gardle away, the party headed</EnglishText>
+  <EnglishText>After driving Gardle away, the party</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText>straight to &lt;Color:240>Hartman’s home in Naohs&lt;Color:440>.</EnglishText>
+  <EnglishText>headed straight to &lt;Color:240>Hartman’s home&lt;Color:440>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText>&lt;empty></EnglishText>
+  <EnglishText>&lt;Color:240>in Naohs&lt;Color:440>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

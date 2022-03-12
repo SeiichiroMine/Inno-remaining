@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>依頼を受けたというハスタから</JapaneseText>
-  <EnglishText>attacked by Hasta who was acting on orders</EnglishText>
+  <EnglishText>attacked by Hasta who was acting under</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>襲撃を受けるルカたち。</JapaneseText>
-  <EnglishText>from the &lt;Color:340>Privy Council&lt;Color:440>.</EnglishText>
+  <EnglishText>the &lt;Color:340>Privy Council's&lt;Color:440> orders.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>枢密院は、マティウスと手を組み</JapaneseText>
-  <EnglishText>Is the Privy Council working with Mattheus</EnglishText>
+  <EnglishText>Is the Privy Council working with</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -83,7 +83,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>創世力を手に入れようとしているの</JapaneseText>
-  <EnglishText>to get ahold of the Genesis?</EnglishText>
+  <EnglishText>Mattheus to get ahold of the Genesis?</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
