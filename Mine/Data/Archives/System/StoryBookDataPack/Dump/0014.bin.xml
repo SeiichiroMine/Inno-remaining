@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>出会った青年が現れる</JapaneseText>
-  <EnglishText>Ruca met in &lt;Color:240>Regnum&lt;Color:440></EnglishText>
+  <EnglishText>Ruca met in &lt;Color:240>Regnum&lt;Color:440> appeared</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -105,7 +105,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText>appeared before them.</EnglishText>
+  <EnglishText>before them.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
