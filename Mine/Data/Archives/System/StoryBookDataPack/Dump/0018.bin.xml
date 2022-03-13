@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>行動をともにすることに同意する。</JapaneseText>
-  <EnglishText>moved by the party's persuasions.</EnglishText>
+  <EnglishText>moved by the party’s persuasions.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>そのとき、ルカたちの記憶が甦り</JapaneseText>
-  <EnglishText>At that moment, the party's past memories</EnglishText>
+  <EnglishText>At that moment, the party’s past memories</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -94,7 +94,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:340>オリフィエル&lt;Color:440>だったことが判明する</JapaneseText>
-  <EnglishText>fact an incarnation of a Ratian strategist</EnglishText>
+  <EnglishText>fact an incarnation of a Ratian</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -105,7 +105,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>new line</JapaneseText>
-  <EnglishText>named &lt;Color:340>Orfiel&lt;Color:440>.</EnglishText>
+  <EnglishText>strategist named &lt;Color:340>Orfiel&lt;Color:440>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
