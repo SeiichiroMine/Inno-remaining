@@ -17,7 +17,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Icon:406>で前進や後退の移動だけでなく</JapaneseText>
-  <EnglishText>{button:0406} can also be used to move freely around</EnglishText>
+  <EnglishText>&lt;Icon:0406> can also be used to move freely around</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>自由に動き回ることができます。</JapaneseText>
-  <EnglishText>the battlefield, an action known as "free running."</EnglishText>
+  <EnglishText>the battlefield, an action known as "&lt;Color:340>free running&lt;Color:440>."</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

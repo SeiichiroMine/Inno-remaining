@@ -17,7 +17,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Control:40>で通常攻撃ができます。</JapaneseText>
-  <EnglishText>Press {unknown41:00} to perform a regular attack.</EnglishText>
+  <EnglishText>Press &lt;Control:40> to perform a regular attack.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Icon:F06>を&lt;Icon:C06>&lt;Icon:A06>に入力しながら</JapaneseText>
-  <EnglishText>Press {unknown41:00} while pressing {button:0C06} or {button:0A06}</EnglishText>
+  <EnglishText>Press &lt;Control:40> while pressing &lt;Icon:0C06> or &lt;Icon:0A06></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

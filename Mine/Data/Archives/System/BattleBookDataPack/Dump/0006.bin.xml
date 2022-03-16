@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ガードは敵の術以外の攻撃を防ぎ</JapaneseText>
-  <EnglishText>pressing {unknown41:02}. This will reduce the damage</EnglishText>
+  <EnglishText>pressing &lt;Control:41:02>. This will reduce the damage</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>また、&lt;Color:340>ガード&lt;Color:440>中に</JapaneseText>
-  <EnglishText>If you hold down {button:0A06} while blocking, </EnglishText>
+  <EnglishText>If you hold down &lt;Icon:0A06> while blocking, </EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

@@ -17,7 +17,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ガード中に&lt;Icon:D06>をターゲットの方向に</JapaneseText>
-  <EnglishText>You can press {button:0D06} twice quickly towards your</EnglishText>
+  <EnglishText>You can press &lt;Icon:0D06> twice quickly towards your</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>ガード中に&lt;Icon:D06>をターゲットの逆方向に</JapaneseText>
-  <EnglishText>Conversely, you can press {button:0D06} twice quickly</EnglishText>
+  <EnglishText>Conversely, you can press &lt;Icon:0D06> twice quickly</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
