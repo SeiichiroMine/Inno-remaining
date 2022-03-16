@@ -17,7 +17,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>戦闘時は&lt;Icon:F06>で移動します。</JapaneseText>
-  <EnglishText>During battle, you can move using &lt;Icon:F06>.</EnglishText>
+  <EnglishText>Use &lt;Icon:0F06> to move during battle.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -28,7 +28,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Icon:B06>&lt;Icon:906>で前進後退を行い</JapaneseText>
-  <EnglishText>Press &lt;Icon:B06> or &lt;Icon:906> to advance/retreat</EnglishText>
+  <EnglishText>Press   &lt;Icon:0B06> or &lt;Icon:0906> to advance/retreat</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -39,7 +39,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Icon:C06>でジャンプを行います。</JapaneseText>
-  <EnglishText>and press &lt;Icon:C06> to jump.</EnglishText>
+  <EnglishText>and press     &lt;Icon:0C06> to jump.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -61,7 +61,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>操作モードがセミオートの時は</JapaneseText>
-  <EnglishText>In semi-auto, you can jump by pressing &lt;Control:240></EnglishText>
+  <EnglishText>In semi-auto, you can jump by pressing          &lt;Control:240></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
@@ -72,7 +72,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Control:240>を押しながら&lt;Icon:C06>で</JapaneseText>
-  <EnglishText>while holding down &lt;Icon:C06>.</EnglishText>
+  <EnglishText>while holding down       &lt;Icon:C06>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
