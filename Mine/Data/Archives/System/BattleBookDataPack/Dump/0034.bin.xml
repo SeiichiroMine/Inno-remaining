@@ -1,106 +1,106 @@
 ﻿<ElfText>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">4</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000004</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>術技の命令使用設定</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Direct Commands</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">48</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000030</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:340>術技使用画面&lt;Color:440>で任意の術技に</JapaneseText>
-  <EnglishText/>
+  <EnglishText>While in the &lt;Color:340>Artes screen&lt;Color:440>, choose your</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">179</MemoryOffset>
+   <MemoryOffset Module="Main">0x000000B3</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>カーソルをあわせ&lt;Icon:706>を押すと</JapaneseText>
-  <EnglishText/>
+  <EnglishText>desired Arte and press &lt;Icon:706> to</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">310</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000136</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:340>命令使用&lt;Color:440>の設定ができます。</JapaneseText>
-  <EnglishText/>
+  <EnglishText>set the &lt;Color:340>command&lt;Color:440>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">441</MemoryOffset>
+   <MemoryOffset Module="Main">0x000001B9</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:340>命令使用&lt;Color:440>を設定すると術技名が</JapaneseText>
-  <EnglishText/>
+  <EnglishText>&lt;empty></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">572</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000023C</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>touchと表記された枠で囲まれます。</JapaneseText>
-  <EnglishText/>
+  <EnglishText>The Arte will be surrounded by a frame</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">703</MemoryOffset>
+   <MemoryOffset Module="Main">0x000002BF</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>戦闘中にキャラクターの顔を</JapaneseText>
-  <EnglishText/>
+  <EnglishText>labelled "touch." You can then use the</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">834</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000342</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>タッチすることで設定した術技を</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Arte by touching the character’s portrait</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">965</MemoryOffset>
+   <MemoryOffset Module="Main">0x000003C5</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>使用させることが可能です。</JapaneseText>
-  <EnglishText/>
+  <EnglishText>during battle.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1096</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000448</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>

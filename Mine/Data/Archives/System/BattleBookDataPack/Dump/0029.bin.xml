@@ -1,111 +1,111 @@
 ﻿<ElfText>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">4</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000004</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>取得経験値</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Experience</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">48</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000030</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>戦闘に参加している</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Party members who participate in a battle</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">179</MemoryOffset>
+   <MemoryOffset Module="Main">0x000000B3</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>メインパーティーのキャラクターは</JapaneseText>
-  <EnglishText/>
+  <EnglishText>will earn a full share of experience</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">310</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000136</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>全員同じ経験値を入手できますが</JapaneseText>
-  <EnglishText/>
+  <EnglishText>points, but those who don’t participate in</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">441</MemoryOffset>
+   <MemoryOffset Module="Main">0x000001B9</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>サブパーティーのキャラクターは</JapaneseText>
-  <EnglishText/>
+  <EnglishText>combat will receive only 70% of the</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">572</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000023C</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>70%の経験値しか得られません。</JapaneseText>
-  <EnglishText/>
+  <EnglishText>full amount.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">703</MemoryOffset>
+   <MemoryOffset Module="Main">0x000002BF</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>　</JapaneseText>
+  <JapaneseText/>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">834</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000342</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>戦闘不能になると</JapaneseText>
-  <EnglishText/>
+  <EnglishText>KO’d characters, whether in battle or</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">965</MemoryOffset>
+   <MemoryOffset Module="Main">0x000003C5</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>メイン・サブに関わらず</JapaneseText>
-  <EnglishText/>
+  <EnglishText>sitting it out, won’t earn any experience</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1096</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000448</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>経験値が入手できなくなります。</JapaneseText>
-  <EnglishText/>
+  <EnglishText>at all.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>

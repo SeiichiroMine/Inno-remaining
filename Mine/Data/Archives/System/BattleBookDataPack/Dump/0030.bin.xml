@@ -1,95 +1,95 @@
 ﻿<ElfText>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">4</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000004</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>戦闘設定・作戦</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Strategy</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">48</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000030</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:340>作戦&lt;Color:440>は戦闘中、味方がどのように</JapaneseText>
-  <EnglishText/>
+  <EnglishText>A &lt;Color:340>strategy&lt;Color:440> is a set of actions to be </EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">179</MemoryOffset>
+   <MemoryOffset Module="Main">0x000000B3</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>行動するかを設定するものです。</JapaneseText>
-  <EnglishText/>
+  <EnglishText>taken by allies during battle.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">310</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000136</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>　</JapaneseText>
+  <JapaneseText/>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">441</MemoryOffset>
+   <MemoryOffset Module="Main">0x000001B9</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:340>基本行動&lt;Color:440>と&lt;Color:340>優先行動&lt;Color:440>の２種類があり</JapaneseText>
-  <EnglishText/>
+  <EnglishText>There are two types:</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">572</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000023C</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:340>基本行動&lt;Color:440>の指針をもとに</JapaneseText>
-  <EnglishText/>
+  <EnglishText>&lt;Color:340>Basic Actions&lt;Color:440> and &lt;Color:340>Priority Actions&lt;Color:440>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">703</MemoryOffset>
+   <MemoryOffset Module="Main">0x000002BF</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>&lt;Color:340>優先行動&lt;Color:440>で選択されている行動を</JapaneseText>
-  <EnglishText/>
+  <EnglishText>&lt;Color:340>Priority Actions&lt;Color:440> always take </EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">834</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000342</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>行います。</JapaneseText>
-  <EnglishText/>
+  <EnglishText>precedence over &lt;Color:340>Basic Actions&lt;Color:440>.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">965</MemoryOffset>
+   <MemoryOffset Module="Main">0x000003C5</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -100,7 +100,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1096</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000448</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
