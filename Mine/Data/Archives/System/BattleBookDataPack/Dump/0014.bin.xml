@@ -1,95 +1,95 @@
 ﻿<ElfText>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">4</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000004</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>エンカウント１</JapaneseText>
-  <EnglishText/>
+  <EnglishText>Encounters 1</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">48</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000030</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>フィールドやダンジョンを</JapaneseText>
-  <EnglishText/>
+  <EnglishText>While moving around in the field or a</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">179</MemoryOffset>
+   <MemoryOffset Module="Main">0x000000B3</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>移動していると一定の確率で</JapaneseText>
-  <EnglishText/>
+  <EnglishText>dungeon, battles will occasionally occur.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">310</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000136</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>戦闘に移行します。</JapaneseText>
-  <EnglishText/>
+  <EnglishText>&lt;empty></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">441</MemoryOffset>
+   <MemoryOffset Module="Main">0x000001B9</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
-  <JapaneseText>　</JapaneseText>
+  <JapaneseText/>
   <EnglishText/>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">572</MemoryOffset>
+   <MemoryOffset Module="Main">0x0000023C</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>フィールド上の森やダンジョンの</JapaneseText>
-  <EnglishText/>
+  <EnglishText>In forests and certain areas of specific</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">703</MemoryOffset>
+   <MemoryOffset Module="Main">0x000002BF</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>一部ではエンカウント率が</JapaneseText>
-  <EnglishText/>
+  <EnglishText>dungeons, the likelihood of a battle</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">834</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000342</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText>上がるので気をつけましょう。</JapaneseText>
-  <EnglishText/>
+  <EnglishText>occurring is increased.</EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">965</MemoryOffset>
+   <MemoryOffset Module="Main">0x000003C5</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
@@ -100,7 +100,7 @@
  </Entry>
  <Entry>
   <MemoryOffsets>
-   <MemoryOffset Module="Main">1096</MemoryOffset>
+   <MemoryOffset Module="Main">0x00000448</MemoryOffset>
   </MemoryOffsets>
   <LiteralPointers/>
   <MipsPointers/>
