@@ -50,7 +50,7 @@
   <LiteralPointers/>
   <MipsPointers/>
   <JapaneseText/>
-  <EnglishText>When you do so, the &lt;blue>Escape Gauge&lt;white></EnglishText>
+  <EnglishText>When you do so, the &lt;Color:340>Escape Gauge&lt;Color:440></EnglishText>
   <Notes/>
   <EditFlag>0</EditFlag>
  </Entry>
